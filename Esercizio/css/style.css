@@ -1,1 +1,33 @@
-/* Your styles here */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  color: #25a2c3;
+  line-height: 1.5rem;
+}
+
+p, a {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  line-height: 1.65rem;
+}
+
+*/ {
+    box-sizing: border-box;
+}
+
+
+
+/* NAVABAR */
+/* HERO SECTION */
+/* CONTENT */
+/* FOOTER */
