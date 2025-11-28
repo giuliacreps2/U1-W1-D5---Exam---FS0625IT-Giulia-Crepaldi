@@ -138,6 +138,13 @@ nav img {
   margin: 40px 0;
 }
 
+.guarantee .job-title {
+  font-size: 14px;
+  font-style:normal;
+  margin-top: 10px;
+  margin-bottom: -20px;
+}
+
 .card {
   margin-top: 60px;
 }
@@ -191,15 +198,28 @@ footer h2 {
   margin-bottom: 10%;
 }
 
-footer a, footer p {
+footer a {
   font-weight: normal;
-  opacity: 80%;
+  opacity: 70%;
 }
 
 footer p {
   font-size: 1rem;
   font-family: "Open Sans", sans-serif;
 }
+
+footer i {
+  size: 14px;
+}
+
+footer .address {
+ opacity: 70%;
+ font-size: 16px;
+}
+
+footer .address i {
+  opacity: 1.0 !important;
+ } 
 
 hr {
   text-align: center;
@@ -208,3 +228,13 @@ hr {
   width: 50%;
   margin-bottom: 40px;
  }
+
+.copyright {
+  color:white;
+  font-size: 14px;
+  opacity: 70%;
+}
+
+.copyright a {
+   opacity: 90%;
+}
